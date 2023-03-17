@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+redis_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Debug
+*.bak
+*.swp
+*.~*
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Other
+*.log
+*.bak
+*.pyc
+*.DS_Store
